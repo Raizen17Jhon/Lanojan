@@ -1,0 +1,12 @@
+<script>start("c:\\Users\\ROG\\Desktop\\vite-project\\dist\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,0,"0 B",1734791807,"12/21/24, 10:36:47 PM");</script>
+<script>addRow("ducati.png","ducati.png",0,58642,"57.3 kB",1717563324,"6/5/24, 12:55:24 PM");</script>
+<script>addRow("harley.png","harley.png",0,63152,"61.7 kB",1717563313,"6/5/24, 12:55:13 PM");</script>
+<script>addRow("honda1.png","honda1.png",0,95061,"92.8 kB",1717563292,"6/5/24, 12:54:52 PM");</script>
+<script>addRow("index.html","index.html",0,459,"459 B",1734791807,"12/21/24, 10:36:47 PM");</script>
+<script>addRow("kawasaki.png","kawasaki.png",0,64540,"63.0 kB",1717563276,"6/5/24, 12:54:36 PM");</script>
+<script>addRow("pexels-nishantaneja-2393821.jpg","pexels-nishantaneja-2393821.jpg",0,595787,"582 kB",1717491902,"6/4/24, 5:05:02 PM");</script>
+<script>addRow("suzuki1.png","suzuki1.png",0,65324,"63.8 kB",1717563214,"6/5/24, 12:53:34 PM");</script>
+<script>addRow("vite.svg","vite.svg",0,1497,"1.5 kB",1732195722,"11/21/24, 9:28:42 PM");</script>
+<script>addRow("yamaha.png","yamaha.png",0,90370,"88.3 kB",1717563253,"6/5/24, 12:54:13 PM");</script>
